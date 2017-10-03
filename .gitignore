@@ -28,3 +28,6 @@ Resume Review.docx
 Sandbox/
 .metadata/
 .recommenders/
+.settings/org.eclipse.jdt.core.prefs
+.classpath
+.project
