@@ -1,6 +1,6 @@
 package ch1_arrays_and_strings;
 
-public class URLify1p3 {
+public class Ch1p3URLify {
 	
 	
 	public static void main(String[] args) {

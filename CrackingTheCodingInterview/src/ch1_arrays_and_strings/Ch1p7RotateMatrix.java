@@ -1,6 +1,6 @@
 package ch1_arrays_and_strings;
 
-public class RotateMatrix1p7 {
+public class Ch1p7RotateMatrix {
 	
 	
     //    1  2  3  4  5

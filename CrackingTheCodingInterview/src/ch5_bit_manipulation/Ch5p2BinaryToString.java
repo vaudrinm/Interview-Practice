@@ -1,6 +1,6 @@
 package ch5_bit_manipulation;
 
-public class BinaryToString5p2 {
+public class Ch5p2BinaryToString {
 	
 	// Problem:
 	/*
@@ -23,7 +23,6 @@ public class BinaryToString5p2 {
 	public static void binaryToString(double n) {
 		if (n <= 0 || n >= 1) {
 			System.out.println("ERROR");
-			return;
 		}
 		String binStr = "0.";
 		

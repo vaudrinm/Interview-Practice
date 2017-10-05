@@ -1,6 +1,6 @@
 package ch5_bit_manipulation;
 
-public class Insertion5p1 {
+public class Ch5p1Insertion {
 	
 	// Problem:
 	/*	

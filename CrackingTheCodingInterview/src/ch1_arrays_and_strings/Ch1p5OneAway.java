@@ -1,6 +1,6 @@
 package ch1_arrays_and_strings;
 
-public class OneAway1p5 {
+public class Ch1p5OneAway {
 	
 	public static void main(String[] args) {
 		
